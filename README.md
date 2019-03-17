@@ -1,6 +1,6 @@
 # CaoThiHue_QC_Bankguru99
 Selenium
-- This is Java project, i used Selenium 2.0 (WebDriver) and TestNG library to build
+- This is Java project, i used Selenium 2.0 (WebDriver) and TestNG library to build.
 The project verified 3 functions of Demo Banking system:
 1. Verify new customer can be created.
 2. Verify to create new account based on the customer just created above.
